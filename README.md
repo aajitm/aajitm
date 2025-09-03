@@ -79,7 +79,7 @@ Welcome to my GitHub! I'm a **2× Microsoft Azure Certified** developer with **1
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aajitm&show_icons=true&theme=tokyonight" alt="Ajit's GitHub Stats" height="180px"/>
-  <img src="https://streak-stats.demolab.com?user=aajitm&theme=tokyonight&hide_border=false" alt="Ajit's GitHub Streak" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=aajitm&theme=tokyonight&hide_border=false" height="180px"/>
 </p>
 
 <p align="center">
